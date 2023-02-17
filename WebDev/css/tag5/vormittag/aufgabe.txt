@@ -1,0 +1,16 @@
+Erstelle in deinem Aufgabenordner einen Unterordner namens deinName-CSS-5, damit du ihn hier später als gezippte Datei hochladen kannst
+Erstelle in diesem Ordner eine Datei namens index.html​.
+
+Das Grundgerüst HTML kannst du mit dem ! Kürzel aufbauen.
+Füge einen header mit einer Navigation.
+Innerhalb der Navigation erstellst du eine ungeordnete Liste, in welcher jeder Listenpunkt einen Hyperlink enthält.
+Zusätzlich kannst du ein Bild runterladen und innerhalb eines figure Elements einbinden. Das figure Element ist ein Kind von main.
+ 
+Erstelle in einem Unterordner namens "css" eine style.css.
+Vergiss nicht die css Datei in der html Datei zu verknüpfen!
+
+Style nun die verschiedenen Zustände deiner Hyperlinks. Achte auf die Reihenfolge der Zustände!
+Füge auch einen hover Effekt zu deinem Bild hinzu.
+Link für kostenlose Bilder: https://unsplash.com/de
+
+Vergiss nach dem Hochladen deiner Aufgabe nicht oben rechts auf den button "Abgeben" zu drücken

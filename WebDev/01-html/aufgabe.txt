@@ -1,0 +1,13 @@
+1- HTML Dokument
+Fällig morgen um 14:59
+Anweisungen
+Erstelle eine Datei namens index.html
+Diese Datei sollte die grundlegende HTML-Struktur enthalten
+Ändere den Titel im head-Element für das HTML-Dokument
+Wähle ein Thema für diese Übung (Kopiere z.B. Text zum Thema aus Wikipedia)
+Füge die wichtigste Überschrift ein
+Füge zwei kurze Absätze ein
+Füge ein Bild hinzu, das mit deinem Thema in Verbindung steht!
+
+--> Recherche - Aufgabe OPTIONAL:
+Füge unter dem Absatz einen Link zu einer Website mit Bezug zu deinem Thema ein

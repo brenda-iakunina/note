@@ -1,0 +1,9 @@
+p {
+    border: 5px solid red;
+    display: inline-block;
+    width: 33%;
+    padding-left: 2,75%;
+    padding-right:2,75%;
+    text-align: justify;
+    background-color: pink;
+  }

@@ -1,0 +1,11 @@
+Create a file named index.html​ under the new folder.
+
+This file should include the basic HTML structure with the ! shortcut.
+Add 3 paragraphs.
+Create a file named style.css 
+Link the CSS file to your HTML file in the head of the HTML.
+
+
+Change the first paragraph's font to a font from the sans-serif family.
+Change the second paragraph's font to a font from the monospace family.
+Change the third Paragraph to any google font 

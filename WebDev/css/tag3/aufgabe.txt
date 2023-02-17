@@ -1,0 +1,18 @@
+4- CSS Basics DE
+Fällig heute um 08:00
+Anweisungen
+- Erstelle eine Datei mit dem Namen index.html, die das HTML-Boilerplate enthält, und baue eine Grundstruktur einer Website auf
+
+- Wähle ein Thema
+
+- Füge Inhalte zu diesem Thema in deine Website ein
+ 
+- Füge 3 <sections> hinzu und füge in jedem dieser Abschnitte 2 Paragraphen mit Texten zu deinem Thema ein
+
+- Erstelle eine Datei mit dem Namen style.css 
+
+- Gestalte deine Website sinnvoll und nach Belieben
+
+- Füge denselben Klassennamen zu beiden Paragraphen jedes Abschnitts hinzu
+
+- Der zweite Paragraph jedes Abschnitts sollte eine andere Farbe haben als der erste Paragraph

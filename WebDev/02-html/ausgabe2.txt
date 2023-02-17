@@ -1,0 +1,8 @@
+3- HTML Formular
+Fällig heute um 14:59
+Anweisungen
+Erstelle die Datei form.html 
+Füge ein Formular mit 3 verschiedenen Arten von Eingabefeldern hinzu (Text, E-Mail, Passwort usw.)
+Stelle sicher, dass jedes Eingabefeld eine Bezeichnung hat
+Füge eine Textarea und einen Button zum Absenden am unteren Ende des Formulars hinzu.
+Recherchiere input types und form attributes und füge einige ein!

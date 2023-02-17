@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!-- DOCTYPE html bestimmt, welche Version von HTML die Webseite laden soll, in unseren Fall und für diese Webseite die HTML Version 5 (fortlaufende Version) -->
+<!-- HTML ist eine Textauszeichnungsprache - HTML hat keine Logik/Funktionen/Datenstrukturen/Abfolgen/Syntax - HTML kann keine Fehler zur Laufzeit erkennen, weil es keiner fixen Syntax folgt, wir müssen den HTML Validator benutzen, um die Regeln zu überprüfen - HTML 5 Standard vom W3C -->
+<html lang="de">
+  <head>
+    <!-- Im Head werden META Informationen zur verbesserten Darstellung gespeichert, z.B. Unicode, externe Inhalt(css,js,Bilder,Schriftarten), Suchemaschienen -->
+    <meta charset="UTF-8" />
+    <!-- Unicode ist eine Sammlung von Schriftzeichen -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Der Content stellt das responsive Webdesign für mobile Auslösunge von z.B. Tablet, Handy, Fernseher, Kühlschrank sicher. Dabei wird anerkannt, dass die Bildschirmbreite des GERÄTES gleichzeitig die Breite des Browser ist. -->
+    <!-- META Informationen dienen zur Verbesserung der Darstellung und Optimierung für Endgeräte/Suchmaschienen/Darstellungen/Browser-->
+    <title>Document</title>
+    <!-- TAG Element Title mit Inhalt für TAB Title Inhalt -->
+    <!-- Dunkelblau = TAG Element, Weiß = Inhalt(Content), Hellblau HTML Attribute (key), Braun = Werte (value)
+        In der Informatik besteht jede Speicherung/Zuweisung immer aus KEY:VALUE,
+        SCHLÜSSEL:WERT. Der Schlüssel ist immer vorgeschrieben und den Wert können wir als Entwickler selbständig frei wählen. In HTML bestehen diese aus KEY="WERT"
+    -->
+    <style>
+        .test{
+            font-weight: bold;
+        }
+    </style>
+</head>
+<img>
+    <!-- Inhalt(Content) der Webseite, welcher sichtbar für die Besucher/Kunden ist-->
+    <!-- Überschriften haben 6 vordefinierte Größen h1-h6 -->
+    <h1>Größte Überschrift</h1>
+    <h6>Kleinste Überschrift</h6>
+    <!-- Textabschnitte/Textinhalte - p, span, div - In allen 3 Varianten können wir Inhalte auf der Webseite wie Wörter, Texte, Sätze, Abschnitte schreiben.DIV ist ein Strukturelement für die Übersicht der Webseite, dies kann viele Kinder, ebenfalls wieder als DIV haben. Das Paragraph Tag Element ist grundsätzlich verantwortlich Wörter, Texte, Sätze, Abschnitte. Wir können zusätzlich innerhalb eines Paragraphen Inhalte fett/kursiv/unterstrichen/hervorgehoben/hochgestellt markieren. Der Unterschied zu einem SPAN Tag Element liegt in dem Default CSS Styling (Standard CSS Darstellung). Das SPAN Tag Element hat kein Default CSS und das Paragraph Tag Elemnet hat immer einen Zeilenumbruch und einen Abstand.-->
+    <p>Hallo Welt.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident rerum fugit earum odio, dolores sequi tempora quos et quo iste inventore dolore consectetur voluptates nobis, quibusdam non rem obcaecati <a href="https://www.google.com">velit!</a> 
+    Fuga inventore delectus veritatis ducimus nisi, illum deserunt nostrum provident soluta amet quas qui, nesciunt vel excepturi odio perspiciatis impedit voluptatum quod non praesentium sequi aliquam. Molestiae facilis <span class="test">laboriosam</span> <strong>natus.</strong></p>
+    <span>Hallo Welt.</span>
+    <span>Hallo Welt.</span>
+    <!-- DIV ist ein Strukturierungs Tag Element ohne Default CSS Styling-->
+    <div>
+        <div>
+            <div>
+                <div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <!-- img als Image Tag Element haben wir kein schließendes Tag Element. Das SRC Attribute bestimmt die Quelle des Bildes und das ALT Attribut den alternativen Text, wenn das Bild nicht geladen werden kann. Die Qull URL kann entweder eine HTTPS URL aus dem Internet oder eine lokale relativer Pfad URL darstellen. Bitte beachten: Ein korrektes Bildformat wie z.B. PNG, JPG, JPEG, GIF, SVG, TTF-->
+    <img src="https://www.google.com/search?q=dci&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjP9sfrvfH8AhUBg_0HHZXqDOcQ_AUoAnoECAEQBA&biw=1920&bih=969&dpr=1#imgrc=Wrd3fk4OJ8tFDM" alt="dci logo">
+    <img src="https://www.karrieretag.org/wp-content/uploads/2021/08/dci-digital-career-institute-logo.png" alt="dci logo">
+  </body>
+</html>

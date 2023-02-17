@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.top {
+  border: 4px solid rgb(114, 68, 68) ;
+  border-radius: 20px;
+  background-color: rgb(234, 228, 240);
+  padding: 20px;
+  text-align: center;
+}
+.top li {
+  /* border: 2px solid blue; */
+  display: inline;
+  padding: 15px;
+}
+
+.top li a:link {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.top li a:visited {
+  color: rgb(114, 68, 68);
+}
+
+.top li a:active {
+  box-shadow: 5px 5px 15px rgb(189, 186, 186);
+}
+
+.top li a:hover {
+  background-color: rgba(66, 66, 43, 0.582);
+  color: antiquewhite;
+}
+
+.name {
+  /* border: 2px solid green; */
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(187, 181, 181);
+}
+
+.massage-types img {
+  width: 300px;
+  border-radius: 10px 10px 0 0;
+  padding-top: 10px;
+}
+.massage-types {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background-color: rgb(187, 181, 181);
+}
+
+.massage-types div {
+  border: 1px solid grey;
+  border-radius: 10px 10px 0 0;
+  margin: 20px;
+  padding-top: 10px;
+}

@@ -1,0 +1,14 @@
+6- CSS Box Model
+Fällig heute um 08:00
+Anweisungen
+- Erstelle eine Datei mit dem Namen "index.html", die das HTML-Boilerplate enthält.
+
+- Wähle ein Thema deiner Wahl.
+ 
+- Füge 3 sections hinzu und füge in jeder  section 2 Paragraphen ein.
+
+- Erstelle eine Datei mit dem Namen "style.css".
+
+- Gib den sections unterschiedliche margins, borders und paddings.
+
+- Die Paragraphen sollten ihre eigenen borders haben, halb so groß wie die sections sein und innerhalb der sections zentriert werden.

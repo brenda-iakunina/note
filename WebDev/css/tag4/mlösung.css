@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+}
+.box-model {
+  border: 5px solid green;
+  width: 800px;
+  min-height: 300px;
+  padding: 30px;
+  margin: 20px;
+  background-color: blanchedalmond;
+}
+
+.middle-model {
+  border: 5px dashed red;
+  width: 800px;
+  min-height: 300px;
+  padding: 30px;
+  margin: 20px;
+  background-color: rgb(215, 205, 255);
+}
+
+.bottom-model {
+  border: 5px dotted purple;
+  width: 800px;
+  min-height: 500px;
+  padding: 30px;
+  margin: 20px;
+  background-color: rgb(247, 255, 205);
+}
+.textform {
+  margin: 20px 0;
+}
+div h2 {
+  text-align: center;
+}
+
+div p {
+  border: 2px solid gray;
+  padding: 10px;
+  width: 50%;
+  margin: 10px auto;
+}
+div ul {
+  padding: 10px;
+  width: 50%;
+  margin: 10px auto;
+}

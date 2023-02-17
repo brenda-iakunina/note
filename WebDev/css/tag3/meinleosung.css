@@ -1,0 +1,24 @@
+section {
+  border: 2px solid gray;
+}
+.name {
+  color: rgb(42, 184, 66);
+}
+.surname {
+  color: blue;
+}
+.continue {
+  color: blueviolet;
+}
+.paragraph {
+  font-size: 20px;
+}
+.paradox {
+  background-color: beige;
+}
+.punkt {
+  font-size: 19px;
+}
+.farbe {
+  color: blue;
+}
